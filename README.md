@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/169155eb18f274d2f7793b0029642908/tenor.gif?itemid=17687730" />
 
-- 💻 I'm currently working at <a href="https://ed2e.com/">ED2E Technology Philippines</a> Inc.
+- 💻 I'm currently working at ED2E Technology Philippines Inc.
 - 🔭 I'm currently working on ...
   - 🤔 Remaking my old School projects. 
   - 📚 Anything that catches my interest. 
