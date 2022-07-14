@@ -11,6 +11,4 @@
   - 📚 Anything that catches my interest. 
 - 🌱 I’m currently learning ...
   - Laravel & Vue
-  - Kotlin
-- 🤔 I’m looking for help with Vue JS, Kotlin and having 8 hours of sleep in 2 hours of sleeping.
 
