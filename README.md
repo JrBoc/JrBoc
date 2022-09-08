@@ -5,10 +5,8 @@
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/169155eb18f274d2f7793b0029642908/tenor.gif?itemid=17687730" />
 
-- 💻 I'm currently working at ThinkBit Solutions.
+- 💻 I'm currently resting before starting work.
 - 🔭 I'm currently working on ...
   - 🤔 Remaking my old School projects. 
   - 📚 Anything that catches my interest. 
-- 🌱 I’m currently learning ...
-  - Laravel & Vue
 
